@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40663292151",
+    "firebase_url": "https://menina-ou-menino.firebaseio.com",
+    "project_id": "menina-ou-menino",
+    "storage_bucket": "menina-ou-menino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40663292151:android:724f6d60005628da289bf2",
+        "android_client_info": {
+          "package_name": "com.example.meninooumenina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40663292151-3r865nj12bidgh1nit7qi3n7nllal0sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meninooumenina",
+            "certificate_hash": "6b838a49277043c85e93bfa922cd679a55b5b363"
+          }
+        },
+        {
+          "client_id": "40663292151-t5gv5nr0i5c1dvgdo0epckpuj3ibhuji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpXGLYswwR0AynukHwsGEbAmGho0WiQW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40663292151-t5gv5nr0i5c1dvgdo0epckpuj3ibhuji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
